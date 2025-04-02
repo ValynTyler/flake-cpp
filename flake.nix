@@ -1,5 +1,5 @@
 {
-  description = "An empty nix devshell";
+  description = "Flake-powered C++ Hello, world!";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
